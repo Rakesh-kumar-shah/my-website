@@ -1,0 +1,248 @@
+* {
+    /* box-sizing: border-box; */
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
+.main-div {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.logo-image {
+    margin-left: 80px;
+    margin-right: 352px;
+}
+
+.section1 {
+    margin-bottom: 0px;
+}
+
+.section1-li {
+    margin-right: 28px;
+    display: inline-block;
+    list-style-type: none;
+    color: red;
+
+}
+
+.section1-anc {
+    color: #e84c3d;
+    text-decoration: none;
+}
+
+.section1-anc.free-link {
+    margin-right: 0;
+    padding: 8px;
+    background-color: #e84c3d;
+    border-radius: 6px;
+    color: white;
+    border: 1px solid red;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.division2 {
+    background-image: linear-gradient(to right, #1a2b4d, #de4a3e);
+    padding-bottom: 75px;
+
+}
+
+.section2-para1 {
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 80px;
+    font-size: 25px;
+    color: white;
+
+}
+
+.section2-para2 {
+    width: 50%;
+    margin-top: 49px;
+    margin-left: 80px;
+    font-size: 18px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+
+.section2-img {
+    width: 520px;
+    height: 300px;
+    margin-top: 70px;
+}
+
+/* .section2-img {
+    float: right;
+
+} */
+
+.clearfix {
+    overflow: auto;
+}
+
+.try-free {
+    margin-left: 82px;
+    margin-top: -86px;
+    padding: 14px;
+    background-color:
+        #e84c3d;
+    border-radius: 8px;
+    text-decoration: none;
+    color:
+        whitesmoke;
+}
+
+.division2-partition {
+    float: left;
+}
+
+.division2-partition.one {
+    width: 55%;
+
+}
+
+.division2-partition.two {
+    width: 45%;
+
+}
+
+.section3 {
+    background-color: #d1edff;
+}
+
+.section3-para {
+    margin-left: 210px;
+}
+
+.section3-anchor {
+    margin-left: 40px;
+    border: 2px solid #e84c3d;
+    padding: 6px;
+    text-decoration: none;
+    color: #e84c3d;
+    border-radius: 3px;
+
+}
+
+.section4 {
+    width: 1280px;
+    padding-bottom: 20px;
+}
+
+.section4-images {
+    padding-top: 40px;
+}
+
+.section5 {
+    width: 1280px;
+}
+
+.section4para {
+
+    font-size: 22px;
+    color: #172b4d;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.section4-img {
+    width: 24%;
+    padding: 5px;
+    float: left;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.a {
+    width: 25%;
+}
+
+/* .cnbc {
+    height: 60px;
+    margin-top: 25px;
+}
+
+.deloitte {
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 60px;
+
+
+}
+
+.mit {
+    width: 105px;
+
+    height: 43px;
+
+    margin-top: 35px;
+}
+
+.nasscom {
+    width: 109px;
+    height: 77px;
+    margin-top: 30px;
+}  */
+
+/* .row {
+
+
+    display: flex;
+
+} */
+
+.section5-para {
+    font-size: 24px;
+    color: #3e3e57;
+    margin-top: 141px;
+    text-align: center;
+}
+
+.section5.body {
+    width: 60%;
+    /* height: auto; */
+    float:left;
+}
+
+.section-5.para1 {
+    margin-left: 58px;
+    width: 550px;
+    font-size: 20px;
+    margin-top: 0px;
+    padding-top: 35px;
+    color: #777777;
+    float: left;
+}
+
+.section-5.para2 {
+    margin-left: 58px;
+    width: 550px;
+    font-size: 20px;
+    color: #777777;
+}
+
+.section5-img {
+    float: right;
+    width:40%;
+}
+/* 
+.section5-img{
+    width: 350px;
+    height: 300px;
+} */
+
+.section6{
+    margin:0 auto;
+}
+.section6-para{
+    margin:0px;
+}
